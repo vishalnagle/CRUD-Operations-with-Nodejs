@@ -1,0 +1,32 @@
+
+1709409582234:::ffff:127.0.0.1 GET: /api/users
+
+1709409592112:::ffff:127.0.0.1 GET: /
+
+1709409599157:::ffff:127.0.0.1 GET: /
+
+1709409604287:::ffff:127.0.0.1 GET: /users
+
+1709409622241:::ffff:127.0.0.1 GET: /user
+
+1709409862267:::ffff:127.0.0.1 GET: /api/users
+
+1709409874431:::ffff:127.0.0.1 GET: /api/users
+
+1709409894153:::ffff:127.0.0.1 POST: /api/users
+
+1709409902125:::ffff:127.0.0.1 GET: /api/users
+
+1709409941099:::ffff:127.0.0.1 PATCH: /api/users/65e38666286591278868667e
+
+1709409946336:::ffff:127.0.0.1 GET: /api/users
+
+1709409971262:::ffff:127.0.0.1 DELETE: /api/users/65e38666286591278868667e
+
+1709409978897:::ffff:127.0.0.1 POST: /api/users
+
+1709409987912:::ffff:127.0.0.1 GET: /api/users
+
+1709410020135:::ffff:127.0.0.1 DELETE: /api/users/65e36dfa3be2cf8cfe690a9a
+
+1709410024713:::ffff:127.0.0.1 GET: /api/users
