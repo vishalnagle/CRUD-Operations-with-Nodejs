@@ -1,0 +1,62 @@
+Express JS Full Course 
+
+Tutorial url - https://www.youtube.com/watch?v=nH9E25nkk3I&t=2s
+
+Github Repo - https://github.com/stuyy/expressjs-full-course
+
+1.Intro & Setup
+
+2.GET Requests
+
+3.Route Params
+
+4.Query Params
+
+5.POST Requests
+
+6.PUT Requests
+
+7.PATCH Requests
+
+8.DELETE Requests
+
+9.Middlewares
+
+10.Validation(express validator package)
+
+request query params and body validation
+headers,cookies,route parameters can be validated
+
+11.Routers
+
+12.Cookies
+
+How to use cookies in client and server side
+Cookie parser
+Signed cookies
+
+13.Sessions part 1
+
+What are sessions
+How to use session object
+
+14.Sessions part 2
+
+15.Passport JS & Authentication
+
+16.Databases and MongoDB
+
+17.Hashing Passwords
+
+18.Session Store
+
+connect mongo package
+
+
+19.OAuth2 with Passport.js
+
+20.Unit Testing with Jest
+
+21.E2E Testing
+
+-------------------------------------------------------------------------------------------

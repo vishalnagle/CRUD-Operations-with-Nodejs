@@ -1,0 +1,50 @@
+MongoDB Complete Tutorial By Leela Web Dev
+
+Tutorial URL - https://www.youtube.com/playlist?list=PL_euSNU_eLbfmDxRw-Gx45ow5MtBAM3YS
+
+1. What is NoSQL? Understand the concept of NoSQL Not Only SQL
+
+2.Explain CAP Theorem Consistency, Availability and the Partition Tolerance 
+
+3. Different types of noSQL databases like Document, wide-column store, key-value, graph
+
+4. Advantages of using the Document Database
+
+5. Why we need to use MongoDB over the document databases and its advantages
+
+6. Difference between the JSON and BSON Documents and the terms with SQL and MongoDB
+
+7. Install and run MongoDB Community Server in the Windows Local Machine
+
+8. Create Database and insert the document in the collections by using insertOne command
+
+help command
+use leela_ecommerce
+db.product.insertOne() command
+
+9. Update and Delete single and multiple documents in a collection
+
+10. Difference between Update, UpdateOne, UpdateMany, replaceOne queries and its filters
+
+insertOne
+insertMany
+updateOne
+updateMany
+update
+replaceOne
+find
+findOne
+$gt
+$lt
+$gte
+$lte
+
+
+
+
+
+
+
+
+
+
